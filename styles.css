@@ -1,0 +1,39 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pg-title {
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.pg-title .content{
+    text-align: center;
+}
+
+.pg-title.content h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.recipes {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.recipes .content {
+    text-align: left;
+}
+
+.recipes .content ul {
+
+}
+
+.recipes .content ul li {
+
+}
+
+.recipes .content ul li a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
